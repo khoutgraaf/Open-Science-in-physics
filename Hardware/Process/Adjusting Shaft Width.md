@@ -9,3 +9,5 @@ We found that we had to increase the width of the shaft for stability. Here is h
   - Move cylinders to the appropriate position with the shaft hole going through model, and the new shaft sitting at the same position as the old one
   - New shaft Scale: X: 5.7mm, Y:5.7mm, Z:30mm
   - Shaft hole scale: X:3.1mm, Y: 3.1mm, Z:43.18mm
+
+This file can be found [../engaging_gear_large_shaft.3mf](here).

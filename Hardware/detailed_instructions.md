@@ -63,3 +63,18 @@ In a future version we will reprint the output gear, and probably only drill the
 ### Evaluation
 
 There is still some wiggle room for the gears, perhaps adding spacers in the next version would prevent that.
+
+
+## 7/10
+
+We reprinted the engaging gear with the same settings as last time.
+We added thin metal washers as spacers between the gears to remove wiggle room.
+
+The printer gave some error about extrusion, and the print looked like it had some missing bits. We tried using it anyway.
+
+
+We made a new axel, long enough to fit through the whole of the engaging gear.
+We got a rubber wheel looking thing to fit to the engaging gear (ID 6mm)
+It had a larger ID than the engaging gear, so we had to design a new engaging gear to fit it properly (see [Process/Adjusting Shaft Width.md](this file).
+We printed this on printer 1 (0.3mm nozzle), but with further the same settings.
+To make the axel fit, we drilled the engaging gear out with a 3.1mm drill bit.
